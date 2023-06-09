@@ -407,7 +407,7 @@ h4 {
     }
 
     .about_container {
-        display: block;
+        display: inline-block;
         width: 70%;
         padding: 0;
         margin-left: 5%;
@@ -415,7 +415,7 @@ h4 {
     }
 
     .meetingcontainer {
-        display: block;
+        display: inline-block;
         width: 70%;
         padding: 0;
         margin-left: 5%;
@@ -428,7 +428,7 @@ h4 {
     }
 
     .footercontainer {
-        display: block;
+        display: inline-block;
         width: 70%;
         padding: 0;
         margin-left: 5%;
@@ -444,7 +444,7 @@ h4 {
 
 @media only screen and (max-width: 768px) {
     .header_container {
-        display: block;
+        display: inline-block;
         width: 90%;
         padding: 0;
         margin-left: 5%;
@@ -456,7 +456,7 @@ h4 {
     }
 
     .about_container {
-        display: block;
+        display: inline-block;
         width: 90%;
         padding: 0;
         margin-left: 5%;
@@ -464,7 +464,7 @@ h4 {
     }
 
     .meetingcontainer {
-        display: block;
+        display: inline-block;
         width: 90%;
         padding: 0;
         margin-left: 5%;
@@ -477,7 +477,7 @@ h4 {
     }
 
     .footercontainer {
-        display: block;
+        display: inline-block;
         width: 90%;
         padding: 0;
         margin-left: 5%;
