@@ -392,54 +392,6 @@ h4 {
     padding-bottom: 20px;
 }
 
-@media only screen and (max-width: 768px) {
-    .header_container {
-        display: block;
-        width: 90%;
-        padding: 0;
-        margin-left: 5%;
-        margin-right: 5%;
-    }
-
-    .main_title h1 {
-        width: 100%;
-    }
-
-    .about_container {
-        display: block;
-        width: 90%;
-        padding: 0;
-        margin-left: 5%;
-        margin-right: 5%;
-    }
-
-    .meetingcontainer {
-        display: block;
-        width: 90%;
-        padding: 0;
-        margin-left: 5%;
-        margin-right: 5%;
-    }
-
-    .meeting_pics img {
-        height: 100px;
-        width: 150px;
-    }
-
-    .footercontainer {
-        display: block;
-        width: 90%;
-        padding: 0;
-        margin-left: 5%;
-        margin-right: 5%;
-    }
-
-    .bottom_nav a,
-    .bottom_nav button {
-        height: 50px;
-        width: 100px;
-    }
-}
 
 @media only screen and (max-width: 460px) {
     .header_container {
@@ -489,3 +441,53 @@ h4 {
         width: 80px;
     }
 }
+
+@media only screen and (max-width: 768px) {
+    .header_container {
+        display: block;
+        width: 90%;
+        padding: 0;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .main_title h1 {
+        width: 100%;
+    }
+
+    .about_container {
+        display: block;
+        width: 90%;
+        padding: 0;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .meetingcontainer {
+        display: block;
+        width: 90%;
+        padding: 0;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .meeting_pics img {
+        height: 100px;
+        width: 150px;
+    }
+
+    .footercontainer {
+        display: block;
+        width: 90%;
+        padding: 0;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .bottom_nav a,
+    .bottom_nav button {
+        height: 50px;
+        width: 100px;
+    }
+}
+
